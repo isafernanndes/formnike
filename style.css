@@ -1,7 +1,5 @@
 body{
     display: flex;
-    justify-content: center;
-    align-items: center;
     min-height: 100vh;
     background: url(https://i.pinimg.com/564x/d9/a7/d8/d9a7d84754d31ba72dfc47cb40988ac6.jpg) no-repeat;
     background-size: cover;
@@ -23,7 +21,7 @@ header{
     padding: 20px 100px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     z-index: 99;
 }
 
@@ -96,9 +94,34 @@ h2{
     border-color: white;
 }
 
-.dados{
+.semnúemro{
+    color: white;
+}
+
+.input-boxsexo{
+    text-align: right;
+}
+
+.formdados{
+    margin-top: 20%;
+    float: left;
     border: 3px solid #fff;
     outline: none;
+    border-radius: 16px;
+    width: 480px;
+    height: 310px;
+    text-align: left;
+}
+
+.formede{
+    float: right;
+    border: 3px solid #fff;
+    outline: none;
+    border-radius: 16px;
+    width: 480px;
+    height: 350px;
+    display: block;
+}
     border-radius: 16px;
 }
 
