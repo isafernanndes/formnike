@@ -94,40 +94,14 @@ h2{
     border-color: white;
 }
 
-.semnúemro{
-    color: white;
-}
-
-.input-boxsexo{
-    text-align: right;
-}
-
 .formdados{
     margin-top: 20%;
-    float: left;
     border: 3px solid #fff;
     outline: none;
     border-radius: 16px;
     width: 480px;
     height: 310px;
-    text-align: left;
 }
-
-.formede{
-    float: right;
-    border: 3px solid #fff;
-    outline: none;
-    border-radius: 16px;
-    width: 480px;
-    height: 350px;
-    display: block;
-}
-    border-radius: 16px;
-}
-
-.ede{
-    float: right;
-} 
 
 .semnúemro{
     color: white;
